@@ -18,7 +18,14 @@ Please call me Rena. I am currently a Master's student of Business Analytics. Pr
 - Power BI
 - SAS Miner
 
-Thanks a lot for passing by my newly created home, where the my Analytics path will be recorded from beginning to infinity ✨
+Apart from GitHub, I also dedicatedly designed my own portfolio website, where I publish my step-by-step explanations on every project published on GitHub.
+
+Please feel free to visit via this link ([My project](https://nrena1997.wixsite.com/analyst-porfolio)).
+You might find all the related links about me on the left side as well
+
+(⬅ ⬅ ⬅ There)
+
+Thanks a lot for passing by my newly created home, where my Analytics path will be recorded from beginning to infinity ✨
 <!--
 **RenaNguyen1997/RenaNguyen1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
