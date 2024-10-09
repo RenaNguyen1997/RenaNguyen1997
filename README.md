@@ -1,6 +1,6 @@
 ## Hello World 🌏
 
-Please call me Rena. I am currently a Master's student of Business Analytics. Previously, I worked in the Hospitality and Education industry. With my transition to the new domain, I hope to integrate my domain knowledge with my newly advanced analytical skills and grow further in my academic and career paths.
+Please call me Rena. I am currently a Master's student of Business Analytics. Previously, I worked in the Hospitality and Education industries. Realizing the immense potential and high demand of the Big Data era within both fields, I decided to leverage my skills in this technical domain. With the transition, I hope to integrate my domain knowledge with my newly advanced analytical skills and grow further in my academic and career paths.
 
 🔭 I am currently working on a project to horned my skills in Customer Experience:
 - Churn analytics
